@@ -1,0 +1,14 @@
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.AssemblyInfoInputs.cache
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.AssemblyInfo.cs
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.csproj.CoreCompileInputs.cache
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\bin\Debug\net8.0\Exercicio7_C.exe
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\bin\Debug\net8.0\Exercicio7_C.deps.json
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\bin\Debug\net8.0\Exercicio7_C.runtimeconfig.json
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\bin\Debug\net8.0\Exercicio7_C.dll
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\bin\Debug\net8.0\Exercicio7_C.pdb
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.dll
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\refint\Exercicio7_C.dll
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.pdb
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\Exercicio7_C.genruntimeconfig.cache
+C:\Users\joao.esbarbosa\source\repos\Csharp\Pagina25\Exercicio7_C\obj\Debug\net8.0\ref\Exercicio7_C.dll
